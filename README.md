@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <hr>
 <h3 style="margin-top: 4px;">ABOUT ME : </h3>
 • 💪🏻 I'm a Web3, and AI Enthusiast ✨.<br>
-• 👨‍💻 I'm Learning to be full-stack Developer from Pakistan ✨.<br>
+• 👨‍💻 I'm Learning Agentic AI ✨.<br>
 • 🌱 I’m currently Learning advanced Programming Typescript and NextJS  ✨.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC ✨.<br>
 • 🚀 I'm a Hard-working, and a Motivated person ✨.<br> 
